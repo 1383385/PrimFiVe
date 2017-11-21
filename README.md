@@ -1,6 +1,14 @@
 # PrimFiVe
 Automated multiplexable primer designing and verification pipeline.
 
+**REQUIREMENTS**
+
+Python 3.x
+BioPython
+Primer3 commandline
+EMBOSS Tools
+EasyGUI
+
 **USAGE**
 
 Straightforward usage. Simply select the GenBank file with features and select the feature you wish to have specific sequencing primers against. Or select the FASTA file and PrimFiVe will do the rest.                               
@@ -16,9 +24,15 @@ Solution: Put the "primer3_config" folder that comes with the Primer3 package in
 For any query/ suggestion please feel free to contact:
 
 Aditya Singh
+
 Ph.D. Scholar
+
 Haemat-Onco Unit
+
 Advanced Paediatrics Centre
+
 Postgraudate Institute of Medical Education and Research
+
 Chandigarh, India, 160012
+
 aditya.onco@gmail.com
